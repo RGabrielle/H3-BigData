@@ -1,0 +1,3 @@
+README
+
+Exercice BigData : Enjoy ! :) 
